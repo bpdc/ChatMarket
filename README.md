@@ -4,8 +4,8 @@ If you enjoyed the project, leave a ⭐️<strong> [en] </strong>
 
 <h2> Acesso o Wiki da atividade / Access the activity Wiki 👇 </h2>
 
-Para mais informações sobre o assunto, basta acessar este link: https://github.com/bpdc/GoRent/wiki <br>
-For more information on the subject, just click on this link: https://github.com/bpdc/GoRent/wiki <br>
+Para mais informações sobre o assunto, basta acessar este link: https://github.com/bpdc/ChatMarket/wiki <br>
+For more information on the subject, just click on this link: https://github.com/bpdc/ChatMarket/wiki <br>
 
 
 <h2> Descrição Geral / General Description 🌐 </h2>
