@@ -45,6 +45,12 @@ O projeto utiliza como base o conjunto oficial **"The Instacart Online Grocery S
 <p>Projeto acadêmico desenvolvido durante o curso de Bacharelado em Sistemas de Informação na Universidade Presbiteriana Mackenzie, como parte da disciplina de Inteligência Artificial, integrando técnicas de Ciência de Dados, Análise Exploratória e Inteligência Artificial Generativa para suporte à decisão corporativa. <strong>[pt_br]</strong></p>
 <p>Academic project developed during the Bachelor's degree in Information Systems at Mackenzie Presbyterian University, as part of the Artificial Intelligence course, integrating Data Science techniques, Exploratory Data Analysis, and Generative Artificial Intelligence for enterprise decision support. <strong>[en]</strong></p>
 
-<h2> Entre em Contato / Get in touch 📬 </h2>
-<p>Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato pelo email <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [pt_br] </strong></p>
+<h2> Integrantes 🔽 </h2>
+<ul>
+  <li> Beatriz Pimenta de Camargo </li>
+  <li> Daniela Pereira da Silva </li>
+  <li> Ricardo Lins Pires </li>
+  <li> Valéria Oliveira de Almeida </li>
+</ul>
+
 <p>If you have any questions or suggestions about this project, feel free to contact me via email at <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [en] </strong></p>
