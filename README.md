@@ -2,6 +2,12 @@
 Se gostou do projeto, deixe uma ⭐️<strong> [pt_br] </strong> <br>
 If you enjoyed the project, leave a ⭐️<strong> [en] </strong>
 
+<h2> Acesso o Wiki da atividade / Access the activity Wiki 👇 </h2>
+
+Para mais informações sobre o assunto, basta acessar este link: https://github.com/bpdc/GoRent/wiki <br>
+For more information on the subject, just click on this link: https://github.com/bpdc/GoRent/wiki <br>
+
+
 <h2> Descrição Geral / General Description 🌐 </h2>
 
 O ChatMarket é uma solução conversacional orientada a dados (data-driven) desenvolvida para a exploração analítica de hábitos de consumo no comércio eletrônico alimentar (*e-grocery*). Integrando a API do Google Gemini e o framework Chainlit, a aplicação consome registros transacionais consolidados da Instacart, permitindo que analistas e gestores obtenham respostas assertivas e contextuais sobre comportamento de recompra, fluxos de carrinho e padrões temporais de compra sem a necessidade de escrita manual de consultas SQL. <strong> [pt_br] </strong>
