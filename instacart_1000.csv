@@ -1,0 +1,1001 @@
+order_id,product_name,department,aisle,order_dow,order_hour_of_day,days_since_prior_order,reordered
+1,Bulgarian Yogurt,dairy eggs,yogurt,4,10,9.0,1
+1,Organic 4% Milk Fat Whole Milk Cottage Cheese,dairy eggs,other creams cheeses,4,10,9.0,1
+1,Organic Celery Hearts,produce,fresh vegetables,4,10,9.0,0
+1,Cucumber Kirby,produce,fresh vegetables,4,10,9.0,0
+1,Lightly Smoked Sardines in Olive Oil,canned goods,canned meat seafood,4,10,9.0,1
+1,Bag of Organic Bananas,produce,fresh fruits,4,10,9.0,0
+1,Organic Hass Avocado,produce,fresh fruits,4,10,9.0,0
+1,Organic Whole String Cheese,dairy eggs,packaged cheese,4,10,9.0,1
+36,Grated Pecorino Romano Cheese,dairy eggs,specialty cheeses,6,18,30.0,0
+36,Spring Water,beverages,water seltzer sparkling water,6,18,30.0,1
+36,Organic Half & Half,dairy eggs,cream,6,18,30.0,0
+36,Super Greens Salad,produce,packaged vegetables fruits,6,18,30.0,1
+36,Cage Free Extra Large Grade AA Eggs,dairy eggs,eggs,6,18,30.0,1
+36,"Prosciutto, Americano",deli,lunch meat,6,18,30.0,1
+36,Organic Garnet Sweet Potato (Yam),produce,fresh vegetables,6,18,30.0,1
+36,Asparagus,produce,fresh vegetables,6,18,30.0,1
+38,Shelled Pistachios,snacks,nuts seeds dried fruit,6,16,24.0,0
+38,Organic Biologique Limes,produce,packaged vegetables fruits,6,16,24.0,0
+38,Organic Raw Unfiltered Apple Cider Vinegar,pantry,oils vinegars,6,16,24.0,0
+38,Organic Baby Arugula,produce,packaged vegetables fruits,6,16,24.0,1
+38,Organic Hot House Tomato,produce,fresh vegetables,6,16,24.0,0
+38,Green Peas,frozen,frozen produce,6,16,24.0,0
+38,Bunched Cilantro,produce,fresh herbs,6,16,24.0,0
+38,"Flat Parsley, Bunch",produce,fresh herbs,6,16,24.0,0
+38,Fresh Dill,produce,fresh herbs,6,16,24.0,0
+96,Roasted Turkey,deli,lunch meat,6,20,30.0,1
+96,Organic Cucumber,produce,fresh vegetables,6,20,30.0,0
+96,Organic Grape Tomatoes,produce,packaged vegetables fruits,6,20,30.0,1
+96,Organic Pomegranate Kernels,frozen,frozen produce,6,20,30.0,0
+96,Organic Raspberries,produce,packaged vegetables fruits,6,20,30.0,1
+96,Organic Whole Strawberries,frozen,frozen produce,6,20,30.0,1
+96,Organic Blueberries,produce,packaged vegetables fruits,6,20,30.0,1
+98,Natural Spring Water,beverages,water seltzer sparkling water,3,8,14.0,1
+98,Organic Orange Juice With Calcium & Vitamin D,beverages,refrigerated,3,8,14.0,1
+98,Whole Milk Greek Blended Vanilla Bean Yogurt,dairy eggs,yogurt,3,8,14.0,1
+98,Bag of Organic Bananas,produce,fresh fruits,3,8,14.0,1
+98,Organic Chocolate Almondmilk Pudding,dairy eggs,refrigerated pudding desserts,3,8,14.0,1
+98,Organic Sliced Provalone Cheese,dairy eggs,packaged cheese,3,8,14.0,1
+98,"Tomatoes, Crushed, Organic",canned goods,canned jarred vegetables,3,8,14.0,1
+98,Organic Unsweetened Almond Milk,dairy eggs,soy lactosefree,3,8,14.0,1
+98,"Crackers, Oyster",snacks,crackers,3,8,14.0,1
+98,Uncured Applewood Smoked Bacon,meat seafood,hot dogs bacon sausage,3,8,14.0,1
+98,Organic Seasoned Yukon Select Potatoes Hashed Browns,frozen,frozen appetizers sides,3,8,14.0,1
+98,Organic Extra Virgin Oil Olive,pantry,oils vinegars,3,8,14.0,1
+98,Organic Raspberries,produce,packaged vegetables fruits,3,8,14.0,1
+98,Unsalted Cultured Butter,dairy eggs,butter,3,8,14.0,1
+98,Guacamole,deli,fresh dips tapenades,3,8,14.0,1
+98,Black Beans,canned goods,canned meals beans,3,8,14.0,1
+98,Raspberry Sorbet Pops,frozen,ice cream ice,3,8,14.0,1
+98,Geranium Liquid Dish Soap,household,dish detergents,3,8,14.0,1
+98,Baby Swiss Slices Cheese,dairy eggs,packaged cheese,3,8,14.0,1
+98,Organic Whole Grassmilk Milk,dairy eggs,milk,3,8,14.0,1
+98,Organic Raw Kombucha Gingerade,beverages,refrigerated,3,8,14.0,1
+98,Organic Hothouse Cucumbers,produce,fresh vegetables,3,8,14.0,1
+98,Black Beans No Salt Added,canned goods,canned meals beans,3,8,14.0,1
+98,Organic Cinnamon Apple Sauce,canned goods,canned fruit applesauce,3,8,14.0,1
+98,Uncured Genoa Salami,deli,lunch meat,3,8,14.0,1
+98,Queso Fresco,dairy eggs,specialty cheeses,3,8,14.0,1
+98,Natural Chicken & Maple Breakfast Sausage Patty,frozen,frozen meat seafood,3,8,14.0,1
+98,Sliced Pepperoni,deli,lunch meat,3,8,14.0,1
+98,Organic Garlic,produce,fresh vegetables,3,8,14.0,1
+98,100% Organic Unbleached All-Purpose Flour,pantry,baking ingredients,3,8,14.0,1
+98,Lavender Scent Laundry Detergent,household,laundry,3,8,14.0,1
+98,Organic Italian Parsley Bunch,produce,fresh herbs,3,8,14.0,1
+98,Organic 2% Buttermilk,dairy eggs,milk,3,8,14.0,1
+98,Organic Yellow Onion,produce,fresh vegetables,3,8,14.0,1
+98,Organic Free Range Chicken Broth,canned goods,soup broth bouillon,3,8,14.0,1
+98,Organic Stringles Mozzarella String Cheese,dairy eggs,packaged cheese,3,8,14.0,1
+98,Garbanzo Beans,canned goods,canned meals beans,3,8,14.0,1
+98,Organic Ketchup,pantry,condiments,3,8,14.0,1
+98,Organic Zucchini,produce,fresh vegetables,3,8,14.0,1
+98,Mild Diced Green Chiles,canned goods,canned jarred vegetables,3,8,14.0,1
+98,Pinto Beans No Salt Added,canned goods,canned meals beans,3,8,14.0,1
+98,Organic Lemonade,beverages,juice nectars,3,8,14.0,1
+98,Corn Maize Tortillas,bakery,tortillas flat bread,3,8,14.0,1
+98,Organic Corn Starch,pantry,baking ingredients,3,8,14.0,0
+98,Olive Oil & Aloe Vera Hand Soap,personal care,soap,3,8,14.0,0
+98,Plastic Spoons,household,plates bowls cups flatware,3,8,14.0,1
+98,Aluminum Foil,household,food storage,3,8,14.0,0
+98,Plastic Wrap,household,paper goods,3,8,14.0,1
+98,Organic Coconut Milk,dairy eggs,soy lactosefree,3,8,14.0,0
+112,Fresh Cauliflower,produce,fresh vegetables,5,14,26.0,1
+112,I Heart Baby Kale,produce,packaged vegetables fruits,5,14,26.0,1
+112,Sea Salt Baked Potato Chips,snacks,chips pretzels,5,14,26.0,0
+112,Marinara Pasta Sauce,dry goods pasta,pasta sauce,5,14,26.0,0
+112,Organic Hass Avocado,produce,fresh fruits,5,14,26.0,0
+112,Organic Lemon,produce,fresh fruits,5,14,26.0,1
+112,Coconut Water Kefir,beverages,refrigerated,5,14,26.0,0
+112,Premium Epsom Salt,personal care,muscles joints pain relief,5,14,26.0,0
+112,Umcka Elderberry Intensive Cold + Flu Berry Flavor,personal care,cold flu allergy,5,14,26.0,0
+112,Hickory Honey Barbeque Baked Potato Chips,snacks,chips pretzels,5,14,26.0,0
+112,Baked Sea Salt & Vinegar Potato Chips,snacks,chips pretzels,5,14,26.0,0
+170,Asian Chopped Salad with Dressing,produce,packaged vegetables fruits,0,13,14.0,1
+170,XL Emerald White Seedless Grapes,produce,packaged vegetables fruits,0,13,14.0,1
+170,Bag of Organic Bananas,produce,fresh fruits,0,13,14.0,1
+170,BBQ Ranch Chopped Salad,produce,packaged vegetables fruits,0,13,14.0,1
+170,100% Whole Wheat Bread,bakery,bread,0,13,14.0,1
+170,Plain Non-Fat Greek Yogurt,dairy eggs,yogurt,0,13,14.0,0
+170,Cherubs Heavenly Salad Tomatoes,produce,fresh vegetables,0,13,14.0,0
+170,Brown Rice,dry goods pasta,grains rice dried goods,0,13,14.0,0
+170,Natural Creamy Peanut Butter Spread,pantry,spreads,0,13,14.0,0
+170,Classic Movie Theater Popcorn,snacks,popcorn jerky,0,13,14.0,0
+170,Xpolsive Pizza Baked Snack Crackers,snacks,crackers,0,13,14.0,0
+170,Potato Spinach & Garlic,snacks,crackers,0,13,14.0,0
+170,Organic Strawberries,produce,fresh fruits,0,13,14.0,0
+170,California Clementines,produce,fresh fruits,0,13,14.0,1
+170,Carrots,produce,fresh vegetables,0,13,14.0,0
+170,Baby Spinach,produce,packaged vegetables fruits,0,13,14.0,0
+170,Vanilla Unsweetened Almond Milk,dairy eggs,soy lactosefree,0,13,14.0,0
+218,Natural Artisan Water,beverages,water seltzer sparkling water,0,21,17.0,1
+218,Okra,produce,fresh vegetables,0,21,17.0,1
+218,Organic Yellow Peaches,produce,fresh fruits,0,21,17.0,0
+218,Black Plum,produce,fresh fruits,0,21,17.0,0
+218,Citrus Mandarins Organic,produce,fresh fruits,0,21,17.0,0
+226,"Clementines, Bag",produce,packaged vegetables fruits,0,12,30.0,0
+226,Banana,produce,fresh fruits,0,12,30.0,0
+226,Kids! Chewables Probiotic Tablets Natural Bursting Berry Flavor,personal care,digestion,0,12,30.0,1
+226,Vitamin D Whole Milk,dairy eggs,milk,0,12,30.0,1
+226,Take & Toss 10oz Cups w/ Straws,babies,baby accessories,0,12,30.0,1
+226,Blackberry Cucumber Sparkling Water,beverages,water seltzer sparkling water,0,12,30.0,1
+226,"Magic Tape Refillable Dispenser 3/4\"" x 850\""",missing,missing,0,12,30.0,0
+226,Maximum Strength Original Paste Diaper Rash Ointment,other,other,0,12,30.0,0
+226,Organic Blueberries,produce,packaged vegetables fruits,0,12,30.0,0
+226,Organic 2% Reduced Fat Milk,dairy eggs,milk,0,12,30.0,0
+226,Wrap Aluminum Foil Heavy Duty,household,food storage,0,12,30.0,0
+226,Choose-A-Size White Paper Towels 8 Giant Rolls,household,paper goods,0,12,30.0,0
+226,Soft White 60 Watts Halogen Bulb,household,more household,0,12,30.0,0
+349,Pure Irish Butter,dairy eggs,butter,3,16,30.0,1
+349,Pure Almond Unsweetened Original Almond Milk,dairy eggs,soy lactosefree,3,16,30.0,1
+349,Natural Chicken & Sage Breakfast Sausage,meat seafood,hot dogs bacon sausage,3,16,30.0,1
+349,Uncured Hickory Smoked Sunday Bacon,meat seafood,hot dogs bacon sausage,3,16,30.0,0
+349,Organic Beef Hot Dogs,meat seafood,hot dogs bacon sausage,3,16,30.0,0
+349,Honeysuckle Dish Soap,household,dish detergents,3,16,30.0,0
+349,Organics Big Bird's Apple 100% Juice,beverages,juice nectars,3,16,30.0,0
+349,Organics Vitamin C Fortified 100% Apple Juice,beverages,juice nectars,3,16,30.0,0
+349,Organic Medium Brown Eggs,dairy eggs,eggs,3,16,30.0,1
+349,Large Alfresco Eggs,dairy eggs,eggs,3,16,30.0,1
+349,Organic Green Grapes,produce,fresh fruits,3,16,30.0,0
+393,Shredded Mexican Blend Cheese,dairy eggs,packaged cheese,6,17,13.0,1
+393,Clementines,produce,packaged produce,6,17,13.0,1
+393,Fat Free Skim Milk,dairy eggs,milk,6,17,13.0,1
+393,Red Delicious Apples,produce,fresh fruits,6,17,13.0,1
+393,Hass Avocados,produce,packaged produce,6,17,13.0,0
+393,Strawberries,produce,fresh fruits,6,17,13.0,1
+393,Almonds,snacks,candy chocolate,6,17,13.0,1
+393,Cinnamon Brown Sugar Breakfast Biscuits,breakfast,breakfast bars pastries,6,17,13.0,1
+456,Chorizo Pork,meat seafood,hot dogs bacon sausage,0,12,30.0,0
+456,Petite Peas,frozen,frozen produce,0,12,30.0,0
+456,Max Gel Clog Remover,household,cleaning products,0,12,30.0,1
+456,Green Beans,produce,fresh vegetables,0,12,30.0,0
+456,Naturally Hickory Smoked Hometown Original Bacon,meat seafood,hot dogs bacon sausage,0,12,30.0,1
+456,Extra Virgin Olive Oil,pantry,oils vinegars,0,12,30.0,0
+456,Mediterranean Fine Sea Salt,pantry,spices seasonings,0,12,30.0,0
+456,Pure Ground,pantry,spices seasonings,0,12,30.0,0
+456,Large Lemon,produce,fresh fruits,0,12,30.0,0
+473,Organic Whole Milk with DHA Omega-3,dairy eggs,milk,6,10,8.0,1
+473,Banana,produce,fresh fruits,6,10,8.0,0
+473,Unsweetened Original Almond Breeze Almond Milk,dairy eggs,soy lactosefree,6,10,8.0,1
+473,Baby Wipes,babies,diapers wipes,6,10,8.0,1
+473,Basil Pesto,dry goods pasta,pasta sauce,6,10,8.0,0
+473,Mushroom Ravioli,dry goods pasta,fresh pasta,6,10,8.0,0
+473,Spinaci e Ricotta Ravioli,dry goods pasta,fresh pasta,6,10,8.0,0
+473,Multi Grain Waffles,frozen,frozen breakfast,6,10,8.0,0
+631,Organic Strawberries,produce,fresh fruits,3,9,30.0,1
+631,Uncured Genoa Salami,deli,lunch meat,3,9,30.0,1
+631,Organic Baby Carrots,produce,packaged vegetables fruits,3,9,30.0,1
+631,Gluten Free Organic Taco Sliders Corn Tortillas,international,latino foods,3,9,30.0,0
+631,Organic Chili Powder Blend,pantry,spices seasonings,3,9,30.0,0
+631,Organic Cilantro,produce,fresh herbs,3,9,30.0,0
+631,Mild Salsa,pantry,preserved dips spreads,3,9,30.0,1
+631,Garlic,produce,fresh vegetables,3,9,30.0,0
+631,Tamari Gluten Free Soy Sauce,international,asian foods,3,9,30.0,0
+631,Broccoli Crown,produce,fresh vegetables,3,9,30.0,0
+631,"Organic Red Radish, Bunch",produce,fresh vegetables,3,9,30.0,0
+631,Organic Asian Chopped Salad Kit,missing,missing,3,9,30.0,0
+631,Dairy Free Coconut Milk Raspberry Yogurt Alternative,dairy eggs,yogurt,3,9,30.0,1
+631,Dairy Free Coconut Milk Yogurt Alternative,dairy eggs,yogurt,3,9,30.0,1
+631,French Vanilla Coconut Milk Creamer,dairy eggs,soy lactosefree,3,9,30.0,0
+631,Vanilla Almond Milk,dairy eggs,soy lactosefree,3,9,30.0,0
+631,Organic Italian Parsley Bunch,produce,fresh herbs,3,9,30.0,0
+719,Heavy Duty Scrub Sponge,household,cleaning products,1,12,27.0,0
+762,Organic Strawberries,produce,fresh fruits,6,12,6.0,1
+762,Organic Romaine Lettuce,produce,fresh vegetables,6,12,6.0,0
+762,Celery Hearts,produce,fresh vegetables,6,12,6.0,0
+762,Organic Cucumber,produce,fresh vegetables,6,12,6.0,0
+774,Ice Cream Variety Pack,frozen,ice cream ice,0,17,12.0,0
+774,Nacho Cheese Sauce,international,latino foods,0,17,12.0,1
+774,Deli-Sliced Hot Jalapeño Peppers,pantry,pickled goods olives,0,17,12.0,1
+844,Green Beans,produce,fresh vegetables,6,15,11.0,1
+844,"Organic Red Radish, Bunch",produce,fresh vegetables,6,15,11.0,1
+844,Baby Spinach,produce,packaged vegetables fruits,6,15,11.0,1
+844,Organic Shredded Carrots,produce,packaged vegetables fruits,6,15,11.0,1
+844,Granny Smith Apples,produce,fresh fruits,6,15,11.0,1
+844,Garlic Couscous,dry goods pasta,instant foods,6,15,11.0,1
+844,Cheese Pizza Snacks,frozen,frozen appetizers sides,6,15,11.0,1
+878,Chocolate Mint Crisp Protein Bar,snacks,energy granola bars,2,13,30.0,1
+878,Banana,produce,fresh fruits,2,13,30.0,1
+878,Cream Top Smooth & Creamy Vanilla Yogurt,dairy eggs,yogurt,2,13,30.0,0
+878,Honeycrisp Apple,produce,fresh fruits,2,13,30.0,1
+878,Organic Baby Spinach,produce,packaged vegetables fruits,2,13,30.0,1
+878,Organic Garlic,produce,fresh vegetables,2,13,30.0,0
+878,Organic Hass Avocado,produce,fresh fruits,2,13,30.0,1
+878,Organic Grape Tomatoes,produce,packaged vegetables fruits,2,13,30.0,0
+878,Organic Baby Arugula,produce,packaged vegetables fruits,2,13,30.0,0
+878,Black Plum,produce,fresh fruits,2,13,30.0,0
+878,Organic Strawberries,produce,fresh fruits,2,13,30.0,1
+878,Blueberries,frozen,frozen produce,2,13,30.0,0
+878,Fresh Cauliflower,produce,fresh vegetables,2,13,30.0,1
+878,Organic Garnet Sweet Potato (Yam),produce,fresh vegetables,2,13,30.0,0
+878,Organic Red Bell Pepper,produce,fresh vegetables,2,13,30.0,1
+878,Organic Cilantro,produce,fresh herbs,2,13,30.0,1
+878,Sugar Snap Peas,produce,fresh vegetables,2,13,30.0,1
+878,Organic Carrot Bunch,produce,fresh vegetables,2,13,30.0,0
+878,Organic Lemon,produce,fresh fruits,2,13,30.0,0
+878,Russet Potato,produce,fresh vegetables,2,13,30.0,0
+878,Organic Basil,produce,fresh herbs,2,13,30.0,0
+878,Limes,produce,fresh fruits,2,13,30.0,0
+878,Extra Thick Whole Grain Rolled Oats,breakfast,hot cereal pancake mixes,2,13,30.0,0
+878,Air Chilled Breaded Chicken Breast Nuggets,frozen,frozen appetizers sides,2,13,30.0,0
+878,Ground Beef 85% Lean,meat seafood,packaged meat,2,13,30.0,0
+878,Coconut Almond Unsweetened Creamer Blend,dairy eggs,cream,2,13,30.0,0
+878,2% Reduced Fat Organic Milk,dairy eggs,milk,2,13,30.0,0
+878,Shredded Mild Cheddar Cheese,dairy eggs,packaged cheese,2,13,30.0,0
+904,Cup Noodles Chicken Flavor,dry goods pasta,instant foods,4,9,24.0,0
+904,Zero Calorie Cola,beverages,soft drinks,4,9,24.0,0
+915,Reduced Fat Original Potato Crisps,snacks,chips pretzels,1,16,30.0,1
+915,Turkey Pepperoni Slices,deli,lunch meat,1,16,30.0,1
+915,Soda,beverages,soft drinks,1,16,30.0,1
+915,Lemon-Lime Soda,beverages,soft drinks,1,16,30.0,1
+915,Original Thins,snacks,cookies cakes,1,16,30.0,1
+915,Diet Cranberry Fruit Juice,beverages,juice nectars,1,16,30.0,1
+915,Diet Cola,beverages,soft drinks,1,16,30.0,1
+915,Select-A-Size White Giant Roll Paper Towels,household,paper goods,1,16,30.0,1
+915,Town House  Mediterranean Herb Pita Crackers,snacks,crackers,1,16,30.0,1
+915,Tuna Creations Herb & Garlic Tuna,canned goods,canned meat seafood,1,16,30.0,1
+915,Light & Fit Greek Cherry Yogurt,dairy eggs,yogurt,1,16,30.0,0
+915,Four Cheese Pizza,frozen,frozen pizza,1,16,30.0,0
+915,Pure Leaf Unsweetened Iced Tea,beverages,tea,1,16,30.0,0
+915,Heavy Duty Paper Plates,household,plates bowls cups flatware,1,16,30.0,0
+988,Natural Vanilla Ice Cream,frozen,ice cream ice,2,9,4.0,0
+988,"Whipped Light Cream, Original",dairy eggs,cream,2,9,4.0,0
+988,Complete ActionPacs Lemon Burst Dishwasher Detergent,household,dish detergents,2,9,4.0,0
+988,Classic Vanilla Coffee Creamer,other,other,2,9,4.0,1
+1001,Tortilla Chips Organic Restaurant Style Purple Corn,snacks,chips pretzels,4,16,7.0,1
+1001,"Ginger, Pickled Sushi",international,asian foods,4,16,7.0,1
+1001,Organic Roma Tomato,produce,fresh vegetables,4,16,7.0,1
+1001,Organic Peeled Whole Baby Carrots,produce,packaged vegetables fruits,4,16,7.0,1
+1032,Clover Org Greek Plain,dairy eggs,yogurt,1,15,30.0,1
+1032,Electrolyte Enhanced Water,beverages,water seltzer sparkling water,1,15,30.0,1
+1032,Organic Raspberries,produce,packaged vegetables fruits,1,15,30.0,1
+1032,Natural Spring Water,beverages,water seltzer sparkling water,1,15,30.0,1
+1032,Goodness Grapeness Organic Juice Drink,beverages,juice nectars,1,15,30.0,1
+1032,Small Hass Avocado,produce,fresh fruits,1,15,30.0,1
+1032,Cheese Pizza,frozen,frozen pizza,1,15,30.0,1
+1032,"Water, Unsweet, Blood Orange",beverages,water seltzer sparkling water,1,15,30.0,1
+1032,Unsweetened Honeydew Essence Water,beverages,water seltzer sparkling water,1,15,30.0,1
+1032,Organic Living Butter Lettuce,produce,fresh vegetables,1,15,30.0,1
+1032,Pineapple Apple Mint Organic Cold Pressed Juicd,beverages,refrigerated,1,15,30.0,1
+1032,Le Petite Fromage Parmesan & Basil,dairy eggs,specialty cheeses,1,15,30.0,0
+1032,Organic Small Bunch Celery,produce,fresh vegetables,1,15,30.0,1
+1032,Organic Large Extra Fancy Fuji Apple,produce,fresh fruits,1,15,30.0,0
+1032,Organic Bartlett Pear,produce,fresh fruits,1,15,30.0,1
+1032,Apple Honeycrisp Organic,produce,fresh fruits,1,15,30.0,0
+1032,Xylitol Sweetener,pantry,baking ingredients,1,15,30.0,0
+1032,Amaaazing Blueberry Apple Juice Blend Drink,beverages,water seltzer sparkling water,1,15,30.0,0
+1032,Water New Zealand,beverages,water seltzer sparkling water,1,15,30.0,0
+1032,New Zealand Artesian Water,beverages,water seltzer sparkling water,1,15,30.0,0
+1032,Wild Berry Sparkling Energy Water,beverages,energy sports drinks,1,15,30.0,0
+1032,Dolmas,deli,prepared meals,1,15,30.0,0
+1032,Taco Seasoning,international,latino foods,1,15,30.0,1
+1032,Original Long Grain & Wild Rice Mix,dry goods pasta,instant foods,1,15,30.0,0
+1032,Garlic & Herb Rice Pilaf Mix,dry goods pasta,instant foods,1,15,30.0,0
+1042,Banana,produce,fresh fruits,1,17,30.0,1
+1042,Pure Irish Butter,dairy eggs,butter,1,17,30.0,1
+1042,Organic Large Brown Eggs,dairy eggs,eggs,1,17,30.0,1
+1042,Applewood Smoked Bacon,meat seafood,hot dogs bacon sausage,1,17,30.0,1
+1042,Organic Oat Cakes,snacks,cookies cakes,1,17,30.0,0
+1042,Organic Whole Cashews,snacks,nuts seeds dried fruit,1,17,30.0,1
+1042,Organic Lentil Soup,canned goods,soup broth bouillon,1,17,30.0,1
+1042,Michigan Organic Kale,produce,fresh vegetables,1,17,30.0,1
+1077,Bag of Organic Bananas,produce,fresh fruits,6,9,10.0,1
+1077,Celery Sticks,produce,packaged vegetables fruits,6,9,10.0,1
+1077,Sparkling Water,beverages,water seltzer sparkling water,6,9,10.0,1
+1077,Organic Strawberries,produce,fresh fruits,6,9,10.0,1
+1086,Organic Mint,produce,fresh herbs,3,15,12.0,1
+1086,Limes,produce,fresh fruits,3,15,12.0,1
+1086,Organic Rosemary,produce,fresh herbs,3,15,12.0,1
+1086,Organic Dark Sweet Cherries,frozen,frozen produce,3,15,12.0,1
+1086,Organic Pomegranate Kernels,frozen,frozen produce,3,15,12.0,1
+1119,Boneless Skinless Chicken Breast,meat seafood,poultry counter,1,14,17.0,1
+1119,Large Lemon,produce,fresh fruits,1,14,17.0,1
+1119,Organic Grade A Free Range Large Brown Eggs,dairy eggs,eggs,1,14,17.0,1
+1119,Fresh Cauliflower,produce,fresh vegetables,1,14,17.0,1
+1119,Broccoli Crown,produce,fresh vegetables,1,14,17.0,0
+1119,Shallot,produce,fresh vegetables,1,14,17.0,1
+1120,Kettle Cooked Potato Chips Original,snacks,chips pretzels,0,8,30.0,1
+1120,Cheddar Snack Mix,snacks,trail mix snack mix,0,8,30.0,1
+1139,Banana,produce,fresh fruits,5,7,30.0,1
+1139,Organic Strawberries,produce,fresh fruits,5,7,30.0,1
+1139,Red Vine Tomato,produce,fresh vegetables,5,7,30.0,0
+1139,Organic Bakery Hamburger Buns Wheat - 8 CT,bakery,buns rolls,5,7,30.0,0
+1139,Guacamole,deli,fresh dips tapenades,5,7,30.0,0
+1139,Picnic Potato Salad,deli,prepared soups salads,5,7,30.0,0
+1139,Cinnamon Rolls with Icing,pantry,doughs gelatins bake mixes,5,7,30.0,0
+1139,Flaky Biscuits,pantry,doughs gelatins bake mixes,5,7,30.0,0
+1139,Buttermilk Biscuits,pantry,doughs gelatins bake mixes,5,7,30.0,0
+1143,Natural Premium Coconut Water,beverages,juice nectars,0,12,30.0,1
+1143,Calming Lavender Body Wash,personal care,soap,0,12,30.0,0
+1143,Unscented Long Lasting Stick Deodorant,personal care,deodorants,0,12,30.0,0
+1143,Organic Raspberries,produce,packaged vegetables fruits,0,12,30.0,1
+1143,Organic Blueberries,produce,packaged vegetables fruits,0,12,30.0,0
+1143,Organic Hass Avocado,produce,fresh fruits,0,12,30.0,1
+1143,"Organic Butterhead (Boston, Butter, Bibb) Lettuce",produce,fresh vegetables,0,12,30.0,0
+1143,Baby Arugula,produce,packaged vegetables fruits,0,12,30.0,0
+1143,Large Lemon,produce,fresh fruits,0,12,30.0,0
+1143,Organic Garlic,produce,fresh vegetables,0,12,30.0,1
+1143,"Organic Red Radish, Bunch",produce,fresh vegetables,0,12,30.0,0
+1143,Rustic Baguette,bakery,bread,0,12,30.0,0
+1143,Organic Brussel Sprouts,produce,packaged vegetables fruits,0,12,30.0,0
+1143,Organic Capellini Whole Wheat Pasta,dry goods pasta,dry pasta,0,12,30.0,0
+1143,Basil Pesto,dry goods pasta,pasta sauce,0,12,30.0,0
+1143,Spring Water,beverages,water seltzer sparkling water,0,12,30.0,0
+1143,Water,beverages,water seltzer sparkling water,0,12,30.0,0
+1145,Banana,produce,fresh fruits,5,9,7.0,1
+1145,Original French Toast Sticks,frozen,frozen breakfast,5,9,7.0,1
+1145,Healthy Multi Grain Bread,bakery,bread,5,9,7.0,1
+1145,Harvest Best in 100% Fruit Juice Mandarin Oranges,canned goods,canned fruit applesauce,5,9,7.0,1
+1145,Little Bites Blueberry Muffin Pouches,snacks,cookies cakes,5,9,7.0,0
+1145,Harvest Cheddar Multigrain Chips,snacks,chips pretzels,5,9,7.0,0
+1145,Mexican Casserole Bowl,frozen,frozen meals,5,9,7.0,0
+1145,Natural Uncured Turkey Hot Dog,meat seafood,hot dogs bacon sausage,5,9,7.0,1
+1145,Original Red Raspberry Yogurt,dairy eggs,yogurt,5,9,7.0,1
+1145,Goldfish Parmesan Baked Snack Crackers,snacks,crackers,5,9,7.0,0
+1145,Multi Grain Cheerios Cereal,breakfast,cereal,5,9,7.0,1
+1145,Roma Tomato,produce,fresh vegetables,5,9,7.0,1
+1145,Shredded Mild Cheddar Cheese,dairy eggs,packaged cheese,5,9,7.0,1
+1145,Light Mozzarella String Cheese,dairy eggs,packaged cheese,5,9,7.0,1
+1145,"Eggs, Cheese & Turkey Sausage Breakfast Burrito",frozen,frozen breakfast,5,9,7.0,1
+1145,Everything Bagel,bakery,breakfast bakery,5,9,7.0,1
+1145,Danimals Strawberry Explosion & Strikin' Strawberry Kiwi Smoothies,dairy eggs,yogurt,5,9,7.0,1
+1145,Spaghetti Pasta,dry goods pasta,dry pasta,5,9,7.0,1
+1145,Signature Recipes Vodka Sauce Pasta Sauce,dry goods pasta,pasta sauce,5,9,7.0,1
+1145,Spinach Pizza,frozen,frozen pizza,5,9,7.0,0
+1145,Hash Brown Potato Patties,frozen,frozen appetizers sides,5,9,7.0,0
+1145,Nacho Cheese & Bean Snacks,frozen,frozen appetizers sides,5,9,7.0,0
+1145,2% Low Fat Cottage Cheese,dairy eggs,other creams cheeses,5,9,7.0,1
+1145,Original Nooks & Crannies English Muffins,bakery,breakfast bakery,5,9,7.0,1
+1145,Milano Milk Chocolate Cookies,snacks,cookies cakes,5,9,7.0,0
+1145,Strawberries,produce,fresh fruits,5,9,7.0,1
+1145,Strawberry Frozen Greek Yogurt Bars,frozen,ice cream ice,5,9,7.0,0
+1145,Instant Whole Grain Brown Rice,dry goods pasta,instant foods,5,9,7.0,0
+1145,Stir Fry Seasoning Mix,international,asian foods,5,9,7.0,0
+1145,Classic Stir-fry Sauce,international,asian foods,5,9,7.0,0
+1275,Boneless Skinless Chicken Breast,meat seafood,poultry counter,0,12,30.0,1
+1275,Organic Garnet Sweet Potato (Yam),produce,fresh vegetables,0,12,30.0,0
+1275,Small Hass Avocado,produce,fresh fruits,0,12,30.0,0
+1275,Extra Virgin Olive Oil,pantry,oils vinegars,0,12,30.0,0
+1275,Balsamic Vinegar Of Modena,pantry,oils vinegars,0,12,30.0,0
+1280,Lactose Free Half & Half,dairy eggs,cream,4,9,17.0,1
+1280,Organic Half & Half,dairy eggs,cream,4,9,17.0,1
+1280,Vanilla Soy Milk,dairy eggs,soy lactosefree,4,9,17.0,1
+1280,Organic Whole Milk,dairy eggs,milk,4,9,17.0,1
+1280,French Vanilla Creamer,dairy eggs,cream,4,9,17.0,1
+1318,Orange Sparkling Water,beverages,water seltzer sparkling water,5,16,30.0,1
+1318,Mirin Rice Cooking Wine,pantry,condiments,5,16,30.0,1
+1318,Organic Whole Milk,dairy eggs,milk,5,16,30.0,1
+1318,70% Dark Chocolate Salted Almond Bar,snacks,candy chocolate,5,16,30.0,1
+1325,Dha Omega 3 Reduced Fat 2% Milk,dairy eggs,milk,3,17,4.0,1
+1325,Bag of Organic Bananas,produce,fresh fruits,3,17,4.0,1
+1325,Chardonnay Wine,alcohol,white wines,3,17,4.0,1
+1325,Electrolyte Enhanced Water,beverages,water seltzer sparkling water,3,17,4.0,0
+1325,Slim Can Lime Sparkling Natural Mineral Water,beverages,water seltzer sparkling water,3,17,4.0,1
+1335,Organic Small Bunch Celery,produce,fresh vegetables,1,12,4.0,1
+1335,Organic Baby Spinach,produce,packaged vegetables fruits,1,12,4.0,1
+1335,Cucumber Kirby,produce,fresh vegetables,1,12,4.0,1
+1335,Vanilla Yoghurt,dairy eggs,yogurt,1,12,4.0,1
+1335,Organic Hass Avocado,produce,fresh fruits,1,12,4.0,1
+1335,Large Alfresco Eggs,dairy eggs,eggs,1,12,4.0,1
+1335,Apple Honeycrisp Organic,produce,fresh fruits,1,12,4.0,1
+1335,Original Instant Oatmeal,breakfast,hot cereal pancake mixes,1,12,4.0,1
+1335,Organic Whole Milk,dairy eggs,milk,1,12,4.0,1
+1335,Bag of Organic Bananas,produce,fresh fruits,1,12,4.0,1
+1342,Bag of Organic Bananas,produce,fresh fruits,3,8,30.0,1
+1342,Seedless Cucumbers,produce,packaged produce,3,8,30.0,1
+1342,Organic Mandarins,produce,fresh fruits,3,8,30.0,1
+1342,Organic Strawberries,produce,fresh fruits,3,8,30.0,1
+1342,Versatile Stain Remover,household,laundry,3,8,30.0,1
+1342,Pink Lady Apples,produce,fresh fruits,3,8,30.0,1
+1342,Chicken Apple Sausage,meat seafood,hot dogs bacon sausage,3,8,30.0,1
+1342,Raw Shrimp,frozen,frozen meat seafood,3,8,30.0,1
+1350,Ground Cinnamon,pantry,spices seasonings,4,9,10.0,0
+1350,Organic Insect Repellent Fresh Natural Scent,other,other,4,9,10.0,0
+1350,Lemon Love Juice Drink,beverages,refrigerated,4,9,10.0,0
+1350,Pressed Cool Pineapple,beverages,juice nectars,4,9,10.0,0
+1350,Strawberry Banana Juice,beverages,refrigerated,4,9,10.0,0
+1350,Chia Sweet Peach Smoothie,beverages,refrigerated,4,9,10.0,1
+1350,Plus Lotion Facial Tissues,household,paper goods,4,9,10.0,0
+1350,Mocha Frappucino Chilled Coffee Drink,beverages,coffee,4,9,10.0,1
+1350,Bare Fruit Banana Chips,snacks,fruit vegetable snacks,4,9,10.0,0
+1350,Sea Salt Chickpeas,snacks,fruit vegetable snacks,4,9,10.0,0
+1350,Green Apple Chips,snacks,fruit vegetable snacks,4,9,10.0,0
+1468,Banana,produce,fresh fruits,0,17,30.0,0
+1468,Organic Ginger Root,produce,fresh vegetables,0,17,30.0,0
+1468,Cage Free Grade AA Large White Eggs,dairy eggs,eggs,0,17,30.0,0
+1468,Active Dry Yeast,pantry,baking ingredients,0,17,30.0,0
+1468,Bartlett Pears,produce,fresh fruits,0,17,30.0,0
+1468,Natural Mini Pork Pepperoni,deli,lunch meat,0,17,30.0,0
+1468,Organic Lacinato (Dinosaur) Kale,produce,fresh vegetables,0,17,30.0,1
+1468,Pomegranate Seeds,produce,packaged vegetables fruits,0,17,30.0,0
+1468,Organic English Cucumber,produce,fresh vegetables,0,17,30.0,0
+1468,Organic Red Potato,produce,fresh vegetables,0,17,30.0,0
+1468,"Organic Red Radish, Bunch",produce,fresh vegetables,0,17,30.0,1
+1468,Carrots,produce,fresh vegetables,0,17,30.0,1
+1468,Organic Baby Broccoli,produce,fresh vegetables,0,17,30.0,0
+1468,Fresh Cauliflower,produce,fresh vegetables,0,17,30.0,1
+1468,Organic Hass Avocado,produce,fresh fruits,0,17,30.0,1
+1468,Red Peppers,produce,fresh vegetables,0,17,30.0,0
+1468,Organic Grape Tomatoes,produce,packaged vegetables fruits,0,17,30.0,0
+1571,Natural Artisan Water,beverages,water seltzer sparkling water,2,17,16.0,0
+1571,All Natural Homestyle California Lemon Limeade,beverages,refrigerated,2,17,16.0,0
+1571,"Clementines, Bag",produce,packaged vegetables fruits,2,17,16.0,0
+1571,Organic Banana,produce,fresh fruits,2,17,16.0,0
+1572,Grapefruit Sparkling Water,beverages,water seltzer sparkling water,1,19,9.0,0
+1572,Lemon Sparkling Water,beverages,water seltzer sparkling water,1,19,9.0,0
+1572,Banana,produce,fresh fruits,1,19,9.0,1
+1572,Organic Unsweetened Almond Milk,dairy eggs,soy lactosefree,1,19,9.0,1
+1572,Large Grapefruit,produce,fresh fruits,1,19,9.0,1
+1572,Red Vine Tomato,produce,fresh vegetables,1,19,9.0,1
+1572,Organic Spring Mix Salad,produce,packaged vegetables fruits,1,19,9.0,1
+1572,Organic Peeled Whole Baby Carrots,produce,packaged vegetables fruits,1,19,9.0,1
+1572,Organic Dill Relish,pantry,condiments,1,19,9.0,1
+1572,Organic Baby Spinach,produce,packaged vegetables fruits,1,19,9.0,1
+1572,Whole Wheat Bread,bakery,bread,1,19,9.0,1
+1572,Spinach Pizza,frozen,frozen pizza,1,19,9.0,1
+1572,Gluten Free Chocolate Chunk Cookie Dough,pantry,doughs gelatins bake mixes,1,19,9.0,1
+1572,Fluoride-Free Antiplaque & Whitening Peppermint Toothpaste,personal care,oral hygiene,1,19,9.0,1
+1572,Florida Orange Juice With Calcium & Vitamin D,beverages,refrigerated,1,19,9.0,1
+1572,Organic Sour Cream,dairy eggs,other creams cheeses,1,19,9.0,1
+1572,Organic Graham Crunch Cereal,breakfast,cereal,1,19,9.0,0
+1572,Red Peppers,produce,fresh vegetables,1,19,9.0,1
+1572,Roasted Turkey Breast,deli,lunch meat,1,19,9.0,0
+1579,Apple Frank Organic Beef,missing,missing,5,15,0.0,1
+1579,Water,beverages,water seltzer sparkling water,5,15,0.0,1
+1579,New York Style Nova Lox,meat seafood,packaged seafood,5,15,0.0,0
+1579,Grapefruit Citrus Soda,beverages,soft drinks,5,15,0.0,1
+1579,Vitamin Water Zero Squeezed Lemonade,beverages,energy sports drinks,5,15,0.0,1
+1591,Cracked Wheat,bakery,bread,2,17,6.0,1
+1591,Organic Greek Whole Milk Blended Vanilla Bean Yogurt,dairy eggs,yogurt,2,17,6.0,1
+1591,Navel Oranges,produce,fresh fruits,2,17,6.0,1
+1591,Spinach,produce,packaged vegetables fruits,2,17,6.0,1
+1591,Original Patties (100965) 12 Oz Breakfast,meat seafood,hot dogs bacon sausage,2,17,6.0,1
+1591,Cinnamon Multigrain Cereal,breakfast,cereal,2,17,6.0,1
+1591,Chewy 25% Low Sugar Chocolate Chip Granola,snacks,energy granola bars,2,17,6.0,1
+1591,Uncured Genoa Salami,deli,lunch meat,2,17,6.0,1
+1591,Natural Vanilla Ice Cream,frozen,ice cream ice,2,17,6.0,0
+1591,Lemon Yogurt,dairy eggs,yogurt,2,17,6.0,1
+1591,Strawberry Rhubarb Yoghurt,dairy eggs,yogurt,2,17,6.0,0
+1591,Garlic,produce,fresh vegetables,2,17,6.0,1
+1591,Pure Vanilla Extract,pantry,baking ingredients,2,17,6.0,1
+1591,Lower Sugar Instant Oatmeal  Variety,breakfast,hot cereal pancake mixes,2,17,6.0,1
+1591,Organic Bunny Fruit Snacks Berry Patch,snacks,fruit vegetable snacks,2,17,6.0,0
+1591,Buttermilk Waffles,frozen,frozen breakfast,2,17,6.0,0
+1591,Granny Smith Apples,produce,fresh fruits,2,17,6.0,0
+1591,Medium Scarlet Raspberries,produce,fresh fruits,2,17,6.0,1
+1591,Banana,produce,fresh fruits,2,17,6.0,1
+1591,Strawberry Banana Smoothie,beverages,juice nectars,2,17,6.0,0
+1591,Green Machine Juice Smoothie,beverages,refrigerated,2,17,6.0,0
+1591,Ultra Thin Sliced Provolone Cheese,dairy eggs,packaged cheese,2,17,6.0,1
+1591,Oven Roasted Turkey Breast,deli,lunch meat,2,17,6.0,1
+1591,Original Turkey Burgers Smoke Flavor Added,frozen,frozen meat seafood,2,17,6.0,0
+1591,Original Whole Grain Chips,snacks,chips pretzels,2,17,6.0,0
+1591,Goldfish Pretzel Baked Snack Crackers,snacks,crackers,2,17,6.0,0
+1591,Twisted Tropical Tango Organic Juice Drink,missing,missing,2,17,6.0,0
+1591,Goodness Grapeness Organic Juice Drink,beverages,juice nectars,2,17,6.0,1
+1591,Nutty Bars,snacks,cookies cakes,2,17,6.0,1
+1591,Honey Graham Snacks,snacks,cookies cakes,2,17,6.0,1
+1591,Coconut Dreams Cookies,snacks,cookies cakes,2,17,6.0,1
+1597,Organic Whole Milk with DHA Omega-3,dairy eggs,milk,1,8,4.0,1
+1597,Organic Plain Greek Whole Milk Yogurt,dairy eggs,yogurt,1,8,4.0,1
+1597,Mandarin Oranges,produce,fresh fruits,1,8,4.0,1
+1597,Reduced Fat Chocolate Milk,dairy eggs,milk,1,8,4.0,0
+1597,Organic Mini Sandwich Crackers Peanut Butter,snacks,crackers,1,8,4.0,1
+1597,Red Seedless Grapes Bunch,produce,fresh fruits,1,8,4.0,1
+1597,Pure Coconut Water,beverages,juice nectars,1,8,4.0,1
+1597,Organic Banana,produce,fresh fruits,1,8,4.0,1
+1597,Organic Lactose Free Whole Milk,dairy eggs,soy lactosefree,1,8,4.0,1
+1597,Buttermilk Biscuits,pantry,doughs gelatins bake mixes,1,8,4.0,1
+1620,Ground Allspice,pantry,spices seasonings,5,13,8.0,0
+1620,Rosemary Hand Soap,personal care,soap,5,13,8.0,0
+1620,of Norwich Original English Mustard Powder Double Superfine,pantry,spices seasonings,5,13,8.0,0
+1620,Free Range Organic Chicken Broth,canned goods,soup broth bouillon,5,13,8.0,1
+1620,Organic Beef Stock,beverages,soft drinks,5,13,8.0,1
+1620,Organic Italian Parsley Bunch,produce,fresh herbs,5,13,8.0,1
+1620,Red Vine Tomato,produce,fresh vegetables,5,13,8.0,1
+1620,Diced Tomatoes,canned goods,canned jarred vegetables,5,13,8.0,0
+1620,Organic Hot Salsa,pantry,preserved dips spreads,5,13,8.0,0
+1620,Active Dry Yeast,pantry,baking ingredients,5,13,8.0,0
+1620,Organic Cherry Tomatoes,produce,fresh vegetables,5,13,8.0,0
+1620,Arrowroot,pantry,spices seasonings,5,13,8.0,0
+1620,Flat Fillet Anchovies in Olive Oil with Salt Added,canned goods,canned meat seafood,5,13,8.0,0
+1620,Camembert,dairy eggs,specialty cheeses,5,13,8.0,1
+1620,Organic Cucumber,produce,fresh vegetables,5,13,8.0,1
+1620,Sinfully Sweet Campari Tomatoes,produce,fresh vegetables,5,13,8.0,1
+1620,Organic Dried Porcini Mushrooms,dry goods pasta,grains rice dried goods,5,13,8.0,1
+1620,Organic Sage,produce,fresh herbs,5,13,8.0,0
+1620,Rosemary,pantry,spices seasonings,5,13,8.0,0
+1620,Organic Thyme,produce,fresh herbs,5,13,8.0,0
+1674,PastaJoy Brown Rice Pasta Elbow,dry goods pasta,dry pasta,1,9,30.0,0
+1674,Organic Avocado,produce,fresh fruits,1,9,30.0,0
+1674,Organic Baby Spinach,produce,packaged vegetables fruits,1,9,30.0,1
+1674,Bunny-Luv Fresh Organic Carrots,produce,packaged vegetables fruits,1,9,30.0,1
+1682,"Bathroom Tissue, 1‑Ply, 1000 Sheet Rolls",household,paper goods,2,12,30.0,1
+1682,Organic Yellow Onion,produce,fresh vegetables,2,12,30.0,0
+1682,Creamy Peanut Butter,pantry,spreads,2,12,30.0,0
+1682,Organic Free Range Chicken Broth,canned goods,soup broth bouillon,2,12,30.0,1
+1682,Organic Beef Broth,canned goods,soup broth bouillon,2,12,30.0,0
+1682,Organic Romaine Lettuce,produce,fresh vegetables,2,12,30.0,1
+1682,Organic Lemon,produce,fresh fruits,2,12,30.0,1
+1682,Vine Ripe Tomatoes,produce,fresh vegetables,2,12,30.0,0
+1703,Peppermint Stick Ice Cream,frozen,ice cream ice,2,19,14.0,1
+1703,Total 0% Nonfat Greek Yogurt,dairy eggs,yogurt,2,19,14.0,1
+1703,Sustainably Soft Bath Tissue,household,paper goods,2,19,14.0,1
+1703,Organic Reduced Fat 2% Milk,dairy eggs,milk,2,19,14.0,0
+1703,Watermelon Chunks,produce,packaged vegetables fruits,2,19,14.0,1
+1703,Marinara Sauce,dry goods pasta,pasta sauce,2,19,14.0,1
+1721,Organic Reduced Fat Milk,dairy eggs,milk,5,13,3.0,1
+1721,Organic Whole Milk,dairy eggs,milk,5,13,3.0,1
+1721,Organic Rolled Oats,bulk,bulk grains rice dried goods,5,13,3.0,1
+1721,Organic Thompson Seedless Raisins,snacks,nuts seeds dried fruit,5,13,3.0,1
+1721,Whole Milk Plain Yogurt,dairy eggs,yogurt,5,13,3.0,1
+1721,Tomato Paste,dry goods pasta,pasta sauce,5,13,3.0,1
+1764,Half & Half,dairy eggs,cream,3,14,19.0,1
+1764,Italian Dry Salame,deli,lunch meat,3,14,19.0,1
+1851,Light Semisoft Cheese,dairy eggs,packaged cheese,3,10,14.0,1
+1851,Zero Calorie Cream Soda,beverages,soft drinks,3,10,14.0,1
+1851,Organic Kosher Dill Pickles,pantry,pickled goods olives,3,10,14.0,1
+1865,Classic Hummus,deli,fresh dips tapenades,5,12,30.0,1
+1865,Fresh Ginger Root,produce,fresh vegetables,5,12,30.0,0
+1865,Roma Tomato,produce,fresh vegetables,5,12,30.0,0
+1865,Organic Green Cabbage,produce,fresh vegetables,5,12,30.0,0
+1865,Chayote,produce,fresh vegetables,5,12,30.0,0
+1865,Red Pearl Onions,produce,fresh vegetables,5,12,30.0,0
+1865,Green Bell Pepper,produce,fresh vegetables,5,12,30.0,0
+1865,Organic Baby Spinach,produce,packaged vegetables fruits,5,12,30.0,0
+1865,Taro Root,produce,fresh vegetables,5,12,30.0,0
+1865,Globe Eggplant,produce,fresh vegetables,5,12,30.0,0
+1865,Original Style Yoghurt Plain,dairy eggs,yogurt,5,12,30.0,0
+1890,Vanilla Almond Breeze Almond Milk,dairy eggs,soy lactosefree,5,6,30.0,1
+1890,Large Lemon,produce,fresh fruits,5,6,30.0,1
+1890,Bag of Organic Bananas,produce,fresh fruits,5,6,30.0,1
+1890,Baby Spinach,produce,packaged vegetables fruits,5,6,30.0,0
+1890,Sugar Snap Peas,produce,fresh vegetables,5,6,30.0,0
+1890,Shrimp Spring Roll,deli,prepared meals,5,6,30.0,1
+1890,Organic Garnet Sweet Potato (Yam),produce,fresh vegetables,5,6,30.0,1
+1890,Broccoli Crown,produce,fresh vegetables,5,6,30.0,0
+1890,Michigan Organic Kale,produce,fresh vegetables,5,6,30.0,0
+1890,Sparkling Water Grapefruit,beverages,water seltzer sparkling water,5,6,30.0,1
+1890,Apple Honeycrisp Organic,produce,fresh fruits,5,6,30.0,0
+1890,Hass Avocado,produce,fresh vegetables,5,6,30.0,0
+1890,Organic Coconut Milk,dairy eggs,soy lactosefree,5,6,30.0,0
+1890,Original Gluten Free Crackers,snacks,crackers,5,6,30.0,0
+1890,Organic Cucumber,produce,fresh vegetables,5,6,30.0,0
+1955,Organic American Cheese Singles,dairy eggs,packaged cheese,3,19,7.0,1
+1955,Bag of Organic Bananas,produce,fresh fruits,3,19,7.0,1
+1955,ZBar Organic Chocolate Brownie Energy Snack,snacks,energy granola bars,3,19,7.0,1
+1955,Organic Reduced Fat Milk,dairy eggs,milk,3,19,7.0,1
+1955,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,dairy eggs,packaged cheese,3,19,7.0,1
+1955,Ground Turkey Breast,meat seafood,poultry counter,3,19,7.0,1
+1955,Peanut Toffee Buzz Energy Bar,snacks,energy granola bars,3,19,7.0,1
+1955,Sierra Trail Mix Energy Bar,snacks,energy granola bars,3,19,7.0,1
+1955,Boneless Skinless Chicken Breasts,meat seafood,packaged poultry,3,19,7.0,1
+1955,Organic Frozen Mango Chunks,frozen,frozen produce,3,19,7.0,1
+1955,Mini Chocolate Chunk Cookies,snacks,cookies cakes,3,19,7.0,1
+1955,Light in Sodium Black Bean Vegetable Enchilada Entree,frozen,frozen meals,3,19,7.0,1
+1955,Traditional Bavarian Classic Soft Pretzels,frozen,frozen appetizers sides,3,19,7.0,1
+1955,Cinnamon Cereal,breakfast,cereal,3,19,7.0,1
+1955,0% Fat Superfruits Greek Yogurt,dairy eggs,yogurt,3,19,7.0,1
+1955,Organic Lemon Lowfat Yogurt,dairy eggs,yogurt,3,19,7.0,1
+1955,Organic Lowfat Yogurt Banana Vanilla,dairy eggs,yogurt,3,19,7.0,1
+1955,Apple & Gouda Cheese Chicken Sausage,meat seafood,hot dogs bacon sausage,3,19,7.0,1
+1955,Enchilada Black Bean Vegetable,frozen,frozen meals,3,19,7.0,1
+1955,Cheese Enchilada Meal,frozen,frozen meals,3,19,7.0,1
+1955,Organic Turkey Bacon,meat seafood,hot dogs bacon sausage,3,19,7.0,1
+1955,Crispy Cheddar Crackers,snacks,crackers,3,19,7.0,1
+1955,Protein Zone Protein Juice Smoothie,beverages,refrigerated,3,19,7.0,1
+1955,Organic Half & Half,dairy eggs,cream,3,19,7.0,1
+1955,Mixed Berries Whole Milk Icelandic Style Skyr Yogurt,dairy eggs,yogurt,3,19,7.0,0
+1955,Strawberry Rhubarb Yogurt,dairy eggs,yogurt,3,19,7.0,0
+1955,Kids Organic Chocolate Chip ZBars,snacks,energy granola bars,3,19,7.0,1
+1955,White Chocolate Macadamia Nut Energy Bar,snacks,energy granola bars,3,19,7.0,1
+1955,Walnut Halves & Pieces,snacks,nuts seeds dried fruit,3,19,7.0,0
+1955,Whole Almonds,snacks,nuts seeds dried fruit,3,19,7.0,0
+1955,Organic Italian Herb Pasta Sauce,dry goods pasta,pasta sauce,3,19,7.0,0
+1955,Organic Classic Marinara Pasta Sauce,dry goods pasta,pasta sauce,3,19,7.0,0
+1955,Organic Garden Vegetable Pasta Sauce,dry goods pasta,pasta sauce,3,19,7.0,0
+1983,Organic Roasted Turkey Breast,deli,lunch meat,1,10,21.0,1
+1983,Roasted Turkey Breast,deli,lunch meat,1,10,21.0,1
+1983,Ice Cream Chocolate Mocha Chip,frozen,ice cream ice,1,10,21.0,0
+1983,Peanut Butter Ice Cream Cup,missing,missing,1,10,21.0,0
+1983,Cookie Dough Ice Cream Chocolate Chip,missing,missing,1,10,21.0,0
+1983,S'mores Ice Cream,missing,missing,1,10,21.0,0
+1983,Mexican Chocolate Yogurt,missing,missing,1,10,21.0,0
+1983,Strawberry Rhubarb Yogurt,dairy eggs,yogurt,1,10,21.0,0
+1983,Organic Fat Free Milk,dairy eggs,milk,1,10,21.0,1
+1983,Organic Baby Carrots,produce,packaged vegetables fruits,1,10,21.0,1
+1983,Dark Sweet Cherries,frozen,frozen produce,1,10,21.0,1
+1983,Honey Nut Cheerios,breakfast,cereal,1,10,21.0,1
+1983,Organic Original Hommus,deli,fresh dips tapenades,1,10,21.0,0
+1983,"Muffins, Flax, Wild Blueberry",bakery,breakfast bakery,1,10,21.0,0
+1983,Organic Banana,produce,fresh fruits,1,10,21.0,1
+1983,Organic Strawberries,produce,fresh fruits,1,10,21.0,1
+1983,Organic Honey Sweet Whole Wheat Bread,bakery,bread,1,10,21.0,1
+1983,Rocky Mountain Sourdough Bread,bakery,bread,1,10,21.0,0
+1983,No Salt Added Black Beans,canned goods,canned meals beans,1,10,21.0,1
+1983,Organic Garbanzo Beans,canned goods,canned meals beans,1,10,21.0,1
+1983,Almond Butter Minis Bar,snacks,energy granola bars,1,10,21.0,1
+1983,Broccoli Crown,produce,fresh vegetables,1,10,21.0,1
+1983,100% Whole Wheat Bread,bakery,bread,1,10,21.0,1
+1983,Raw Cashew Nut Butter,pantry,spreads,1,10,21.0,1
+1983,Thick & Chunky Salsa,deli,fresh dips tapenades,1,10,21.0,1
+1983,Organic Gala Apple,produce,fresh fruits,1,10,21.0,1
+1983,Everything Bagels,bakery,breakfast bakery,1,10,21.0,0
+1983,Plain Bagels,bakery,breakfast bakery,1,10,21.0,0
+1983,Cream Cheese Spread,dairy eggs,other creams cheeses,1,10,21.0,0
+1994,Club Soda,beverages,soft drinks,2,10,14.0,1
+1994,Creamy Swiss Garlic & Herb Spreadable Cheese Wedges,dairy eggs,packaged cheese,2,10,14.0,1
+1994,Original Spray,dairy eggs,butter,2,10,14.0,1
+1994,American Cheese Slices 12 Count,dairy eggs,packaged cheese,2,10,14.0,1
+1994,Pitted Greek Kalamata Olives,pantry,pickled goods olives,2,10,14.0,0
+1994,Reduced-fat Soft Cream Cheese,dairy eggs,other creams cheeses,2,10,14.0,0
+1994,Original Shoestring Potatoes,snacks,chips pretzels,2,10,14.0,1
+1994,Whole Grain Cheddar Baked Goldfish Crackers,snacks,crackers,2,10,14.0,1
+1994,Everyday  Facial Tissues,household,paper goods,2,10,14.0,0
+1994,Bagel Thins Everything,bakery,breakfast bakery,2,10,14.0,0
+1994,Diet 12 Oz Ginger Ale,beverages,soft drinks,2,10,14.0,0
+1994,Ginger Lemon Gummi Candy,snacks,candy chocolate,2,10,14.0,0
+1994,Red Wine Vinegar,pantry,oils vinegars,2,10,14.0,0
+1994,Sliced Carrot Loaf,bakery,bread,2,10,14.0,0
+1994,"Baked Rice and Corn Puffs, Aged White Cheddar",snacks,chips pretzels,2,10,14.0,0
+1994,Aquarium Pump Hand Soap,personal care,body lotions soap,2,10,14.0,0
+1994,Fresh Tartar Sauce,pantry,condiments,2,10,14.0,0
+2011,Limeade,beverages,refrigerated,4,10,30.0,1
+2011,Original Whole Fat Lactose Free Milk,dairy eggs,soy lactosefree,4,10,30.0,1
+2011,Spinach,produce,packaged vegetables fruits,4,10,30.0,0
+2021,Granny Smith Apples,produce,fresh fruits,0,11,5.0,0
+2021,Organic Raw Unfiltered Apple Cider Vinegar,pantry,oils vinegars,0,11,5.0,0
+2021,Organic Yellow Onion,produce,fresh vegetables,0,11,5.0,1
+2021,Russet Potato,produce,fresh vegetables,0,11,5.0,1
+2021,Yukon Gold Potatoes 5lb Bag,produce,fresh vegetables,0,11,5.0,0
+2021,Vitamin D Milk,dairy eggs,milk,0,11,5.0,1
+2021,Chives,snacks,fruit vegetable snacks,0,11,5.0,1
+2021,White Whole Mushrooms,produce,fresh vegetables,0,11,5.0,1
+2021,Unsalted Chicken Cooking Stock,canned goods,soup broth bouillon,0,11,5.0,1
+2021,Garlic,produce,fresh vegetables,0,11,5.0,1
+2021,Herb Thyme Clamshell,produce,fresh herbs,0,11,5.0,1
+2021,100% Whole Wheat Bread,bakery,bread,0,11,5.0,1
+2021,Premium Unsweetened Iced Tea,beverages,tea,0,11,5.0,1
+2021,Large Lemon,produce,fresh fruits,0,11,5.0,1
+2021,Butter,dairy eggs,butter,0,11,5.0,1
+2021,Pure Vegetable Oil,pantry,oils vinegars,0,11,5.0,1
+2021,Extra Virgin Olive Oil,pantry,oils vinegars,0,11,5.0,1
+2029,Vitamin D Organic Whole Milk,dairy eggs,milk,6,13,30.0,0
+2029,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,dairy eggs,packaged cheese,6,13,30.0,0
+2029,Organic Creamy Deluxe Macaroni Dinner Rotini & White Cheddar Sauce,dry goods pasta,instant foods,6,13,30.0,0
+2029,Organic Elbows & Creamy Mild Cheddar Sauce Creamy Deluxe Macaroni Dinner,dry goods pasta,instant foods,6,13,30.0,0
+2029,2% Reduced Fat Organic Milk,dairy eggs,milk,6,13,30.0,0
+2029,Reduced Fat Chocolate Milk,dairy eggs,milk,6,13,30.0,1
+2029,Chocolate Chip Cookie,snacks,cookies cakes,6,13,30.0,0
+2029,Oven Roasted Turkey,deli,lunch meat,6,13,30.0,0
+2029,Organic Genoa Salami,deli,lunch meat,6,13,30.0,0
+2029,Pizza 4 Cheese,frozen,frozen pizza,6,13,30.0,0
+2029,Uncured Pepperoni Mini Pizza Bagels Frozen Snacks,frozen,frozen pizza,6,13,30.0,0
+2029,Bag of Organic Bananas,produce,fresh fruits,6,13,30.0,0
+2029,Large Alfresco Eggs,dairy eggs,eggs,6,13,30.0,0
+2029,"Gelato Dessert, Amalfi Lemon",frozen,ice cream ice,6,13,30.0,0
+2029,Organic American Cheese Singles,dairy eggs,packaged cheese,6,13,30.0,0
+2068,Banana,produce,fresh fruits,0,16,23.0,1
+2068,Signature Recipes Four Cheese Alfredo Pasta Sauce,dry goods pasta,pasta sauce,0,16,23.0,1
+2068,Lemon Yogurt,dairy eggs,yogurt,0,16,23.0,1
+2068,Aged Reserve Cheese,dairy eggs,packaged cheese,0,16,23.0,1
+2068,"Freshly Made. Filled with Creamy Ricotta, Aged Parmesan and Romano Cheeses Three Cheese Tortellini",dry goods pasta,fresh pasta,0,16,23.0,1
+2068,Red Onion,produce,fresh vegetables,0,16,23.0,1
+2068,Italian Sausage,deli,tofu meat alternatives,0,16,23.0,1
+2068,Reduced Fat Milk 2%,dairy eggs,milk,0,16,23.0,1
+2068,Bunched Cilantro,produce,fresh herbs,0,16,23.0,1
+2068,Organic Avocado,produce,fresh fruits,0,16,23.0,1
+2068,Velveeta Shells & Cheese Pasta,dry goods pasta,instant foods,0,16,23.0,1
+2068,"Cage Free Brown Eggs-Large, Grade A",dairy eggs,eggs,0,16,23.0,1
+2068,Swirl Bread Cinnamon,bakery,bread,0,16,23.0,1
+2068,Angel Hair Pasta,dry goods pasta,dry pasta,0,16,23.0,1
+2068,Chopped Blends With Lamb Brown Rice Carrots Tomatoes & Spinach Dog Food,pets,dog food care,0,16,23.0,1
+2068,Hearty Grains 100% Whole Wheat English Muffins,bakery,breakfast bakery,0,16,23.0,1
+2068,Tart Cherry Yoghurt,dairy eggs,yogurt,0,16,23.0,1
+2068,Vanilla Soy Milk,dairy eggs,soy lactosefree,0,16,23.0,1
+2068,Original Instant Grits,breakfast,hot cereal pancake mixes,0,16,23.0,1
+2068,"Action Pacs, Citrus Scent with Dawn",household,dish detergents,0,16,23.0,1
+2068,Pear Packham,produce,fresh fruits,0,16,23.0,0
+2068,Raspberry Yoghurt,dairy eggs,yogurt,0,16,23.0,0
+2068,Freshly made pasta in a 100% Real Cheddar cheese sauce Macaroni & Cheese,frozen,frozen meals,0,16,23.0,0
+2087,Organic Hothouse Cucumbers,produce,fresh vegetables,4,8,5.0,0
+2087,Authentic French Brioche,bakery,breakfast bakery,4,8,5.0,1
+2087,Reduced Fat Milk,dairy eggs,milk,4,8,5.0,0
+2087,Uncured Hickory Smoked Sunday Bacon,meat seafood,hot dogs bacon sausage,4,8,5.0,0
+2087,Lemon Gingerade,beverages,refrigerated,4,8,5.0,1
+2087,Soft Baked Cookies Gingerbread Spice,bakery,bakery desserts,4,8,5.0,0
+2087,Bag of Organic Bananas,produce,fresh fruits,4,8,5.0,0
+2115,Organic Mixed Vegetables,frozen,frozen produce,2,22,23.0,1
+2115,Organic Broccoli Florets,frozen,frozen produce,2,22,23.0,1
+2115,Cheese Pizza Snacks,frozen,frozen appetizers sides,2,22,23.0,1
+2115,Organic Spring Mix Salad,produce,packaged vegetables fruits,2,22,23.0,1
+2191,Organic Baby Carrots,produce,packaged vegetables fruits,3,17,15.0,1
+2191,Gluten Free White Sandwich Bread,bakery,bread,3,17,15.0,1
+2191,Organic Spring Mix,produce,packaged vegetables fruits,3,17,15.0,1
+2191,Organic Grade A Free Range Large Brown Eggs,dairy eggs,eggs,3,17,15.0,1
+2191,Hint Of Sea Salt Almond Nut Thins,snacks,crackers,3,17,15.0,1
+2191,Chicken Tenders,meat seafood,packaged poultry,3,17,15.0,0
+2191,Pure Organic Pineapple Juice,beverages,juice nectars,3,17,15.0,0
+2191,Organic Raw Kombucha Gingerade,beverages,refrigerated,3,17,15.0,0
+2216,Kalifornia Kolsch,missing,missing,5,9,30.0,0
+2216,Vitamin D Full Fat Milk,dairy eggs,milk,5,9,30.0,1
+2318,Honey Vanilla Greek Yogurt,dairy eggs,yogurt,3,14,23.0,1
+2318,Flour Tortillas Soft Taco,bakery,tortillas flat bread,3,14,23.0,1
+2318,Provolone Slices,dairy eggs,packaged cheese,3,14,23.0,1
+2318,Large Pitted California Ripe Olives,pantry,pickled goods olives,3,14,23.0,0
+2389,Country Potato Hamburger Buns,bakery,buns rolls,6,16,2.0,1
+2389,Provolone Slices,dairy eggs,packaged cheese,6,16,2.0,0
+2389,"Salame, Italian Dry",deli,lunch meat,6,16,2.0,0
+2415,Organic Strawberries,produce,fresh fruits,1,11,2.0,1
+2415,Banana,produce,fresh fruits,1,11,2.0,1
+2415,Small Hass Avocado,produce,fresh fruits,1,11,2.0,1
+2415,Asparagus,produce,fresh vegetables,1,11,2.0,1
+2415,Honey Nut Cheerios,breakfast,cereal,1,11,2.0,0
+2415,Luden's Throat Drops Wild Cherry,personal care,cold flu allergy,1,11,2.0,0
+2442,Organic Green Beans,produce,fresh vegetables,4,10,7.0,1
+2442,Organic Strawberries,produce,fresh fruits,4,10,7.0,1
+2442,Blackberries,produce,fresh fruits,4,10,7.0,1
+2442,White Flesh Nectarines,produce,packaged vegetables fruits,4,10,7.0,0
+2442,Packaged Grape Tomatoes,produce,packaged produce,4,10,7.0,1
+2442,Clementines,produce,packaged produce,4,10,7.0,1
+2445,Strawberry Ice Cream,frozen,ice cream ice,0,16,30.0,0
+2445,Organic Strawana Probugs Kefir,dairy eggs,yogurt,0,16,30.0,1
+2445,Gogo Squeez Organic Apple Strawberry Applesauce on the Go,canned goods,canned fruit applesauce,0,16,30.0,0
+2445,Organic Whole String Cheese,dairy eggs,packaged cheese,0,16,30.0,0
+2445,Hass Avocado,produce,fresh vegetables,0,16,30.0,0
+2445,Dubliner Wedge Pre Cut Cheese,dairy eggs,specialty cheeses,0,16,30.0,1
+2445,Grated Parmesan,dairy eggs,packaged cheese,0,16,30.0,0
+2445,Limeade,beverages,refrigerated,0,16,30.0,1
+2445,Cheese Puffs Original,snacks,chips pretzels,0,16,30.0,1
+2445,Orange Juice,beverages,refrigerated,0,16,30.0,1
+2445,Spaghetti,dry goods pasta,dry pasta,0,16,30.0,1
+2445,Organic Baby Arugula,produce,packaged vegetables fruits,0,16,30.0,1
+2445,Organic Baby Carrots,produce,packaged vegetables fruits,0,16,30.0,1
+2445,Sea Salt Pita Chips,snacks,chips pretzels,0,16,30.0,1
+2445,"Soup, Traditional, with Tofu",international,asian foods,0,16,30.0,1
+2445,Almond Nut & Rice Cracker Snacks,snacks,crackers,0,16,30.0,1
+2445,"Hummus, Hope, Original Recipe",deli,fresh dips tapenades,0,16,30.0,1
+2445,Extra Cheesy Cheddar Bunnies Crackers,snacks,crackers,0,16,30.0,1
+2445,Tomato Kumato,produce,fresh vegetables,0,16,30.0,0
+2445,Feta Cheese Crumbles,dairy eggs,packaged cheese,0,16,30.0,1
+2445,Marinated Cabecou,dairy eggs,packaged cheese,0,16,30.0,0
+2445,Organic English Cucumber,produce,fresh vegetables,0,16,30.0,1
+2445,Villagio Marzano Heavenly Tomatoes,produce,fresh vegetables,0,16,30.0,0
+2445,Organic Italian Parsley Bunch,produce,fresh herbs,0,16,30.0,0
+2445,Cucumber & Garlic  Tzatziki,pantry,preserved dips spreads,0,16,30.0,0
+2445,Organic Smoked Paprika,pantry,spices seasonings,0,16,30.0,0
+2445,Organic Paprika,pantry,spices seasonings,0,16,30.0,0
+2445,Organic Cayenne Pepper,pantry,spices seasonings,0,16,30.0,0
+2445,Seedless Red Grapes,produce,packaged vegetables fruits,0,16,30.0,0
+2445,Meyer Lemon,produce,fresh fruits,0,16,30.0,1
+2445,Bag of Organic Bananas,produce,fresh fruits,0,16,30.0,1
+2445,Crispy Seasoned Potato Puffs with Roasted Garlic & Cracked Pepper,frozen,frozen appetizers sides,0,16,30.0,0
+2445,Vegetable Fried Rice,frozen,frozen meals,0,16,30.0,0
+2445,Medium Cheddar Cheese,dairy eggs,packaged cheese,0,16,30.0,0
+2445,Organic Garlic,produce,fresh vegetables,0,16,30.0,1
+2445,Red Peppers,produce,fresh vegetables,0,16,30.0,0
+2468,Lunchables Turkey & Cheddar Sub Sandwich With Smoothie Lunch Combinations,deli,prepared meals,2,19,2.0,0
+2468,Decker Bundle,deli,prepared meals,2,19,2.0,1
+2468,Ham & Cheddar Lunchable,deli,prepared meals,2,19,2.0,0
+2468,Original/Ranch/BBQ/Chile Picante con Limon Variety Pack,snacks,chips pretzels,2,19,2.0,0
+2468,"Milk, Vitamin D",dairy eggs,milk,2,19,2.0,0
+2468,Vitamin D Added Evaporated Milk,pantry,baking ingredients,2,19,2.0,0
+2468,Vanilla Skyr Nonfat Yogurt,dairy eggs,yogurt,2,19,2.0,0
+2468,Simply Well Rice Pudding,dairy eggs,refrigerated pudding desserts,2,19,2.0,0
+2530,Total 2% Lowfat Greek Strained Yogurt With Blueberry,dairy eggs,yogurt,6,23,18.0,1
+2530,Total 2% with Strawberry Lowfat Greek Strained Yogurt,dairy eggs,yogurt,6,23,18.0,1
+2603,Bag of Organic Bananas,produce,fresh fruits,6,16,17.0,1
+2603,Uncured Hickory Smoked Sunday Bacon,meat seafood,hot dogs bacon sausage,6,16,17.0,1
+2603,Organic Raspberries,produce,packaged vegetables fruits,6,16,17.0,1
+2603,Organic Heavy Whipping Cream,dairy eggs,cream,6,16,17.0,1
+2603,Organic Sour Cream,dairy eggs,other creams cheeses,6,16,17.0,1
+2711,Granny Smith Apples,produce,fresh fruits,0,17,2.0,0
+2711,Honeycrisp Apples,produce,fresh fruits,0,17,2.0,0
+2711,Alpine Spring Water,beverages,water seltzer sparkling water,0,17,2.0,0
+2711,Mountain Spring Water,beverages,water seltzer sparkling water,0,17,2.0,0
+2737,Oreo Chocolate Sandwich Cookies,snacks,cookies cakes,0,19,12.0,1
+2737,Raisin Bran Cereal,breakfast,cereal,0,19,12.0,1
+2737,100% Lactose Free Fat Free Milk,dairy eggs,soy lactosefree,0,19,12.0,1
+2820,Deep Moisture Body Wash,personal care,body lotions soap,2,19,9.0,1
+2820,Lemongrass & Clementine Zest Natural Dish Liquid,household,dish detergents,2,19,9.0,0
+2820,Nasal Relief Spray,personal care,cold flu allergy,2,19,9.0,0
+2820,Jet-Dry Original Rinse Aid,household,dish detergents,2,19,9.0,1
+2822,Bag of Organic Bananas,produce,fresh fruits,0,8,29.0,1
+2822,"Tortillas, Corn, Organic",bakery,tortillas flat bread,0,8,29.0,1
+2822,Vanilla Ice Cream in wafer cups,frozen,ice cream ice,0,8,29.0,1
+2822,Organic Whole Strawberries,frozen,frozen produce,0,8,29.0,0
+2822,Thin Stackers Organic Red Rice & Quinoa Puffed Grain Cakes,dry goods pasta,grains rice dried goods,0,8,29.0,0
+2822,Marinara Sauce,dry goods pasta,pasta sauce,0,8,29.0,1
+2822,Organic Turkey Bacon,meat seafood,hot dogs bacon sausage,0,8,29.0,0
+2822,Cauliflower Pizza Crusts,bakery,tortillas flat bread,0,8,29.0,1
+2822,Cantaloupe,produce,fresh fruits,0,8,29.0,1
+2822,Organic Plain Greek Whole Milk Yogurt,dairy eggs,yogurt,0,8,29.0,1
+2822,Honeydew Melon,produce,fresh fruits,0,8,29.0,1
+2822,Pineapple Chunks,frozen,frozen produce,0,8,29.0,0
+2822,Organic  Whole Milk,dairy eggs,milk,0,8,29.0,0
+2822,Dairy Free French Vanilla Creamer Almond Milk,missing,missing,0,8,29.0,0
+2822,Organic Chickpeas Ready To Eat,snacks,fruit vegetable snacks,0,8,29.0,0
+2822,Organic Black Beans Ready To Eat In Pouch,snacks,fruit vegetable snacks,0,8,29.0,0
+2822,Organic Pinto Beans,canned goods,canned meals beans,0,8,29.0,1
+2822,Organic Greek Whole Milk Blended Vanilla Bean Yogurt,dairy eggs,yogurt,0,8,29.0,0
+2822,Stringles Organic Colby Jack Cheese,dairy eggs,packaged cheese,0,8,29.0,0
+2822,Organic Stoneground Flakes Cocoa Clusters Cereal,breakfast,cereal,0,8,29.0,0
+2822,Organic Seedless Watermelon,produce,fresh fruits,0,8,29.0,0
+2822,Hot Kid Organic Baby Mum-Mum Original Rice Rusks,babies,baby food formula,0,8,29.0,0
+2822,Organic Romaine,produce,packaged vegetables fruits,0,8,29.0,1
+2822,Organic Yellow Peaches,produce,fresh fruits,0,8,29.0,1
+2822,Parchment Paper,household,food storage,0,8,29.0,1
+2822,Plastic Wrap,household,paper goods,0,8,29.0,0
+2822,Organic Ginger Root,produce,fresh vegetables,0,8,29.0,1
+2822,Organic Granny Smith Apple,produce,fresh fruits,0,8,29.0,0
+2822,Gourmet Mochi Ice Cream Vanilla Bonbons,frozen,ice cream ice,0,8,29.0,0
+2853,Organic Blueberries Clamshell,produce,packaged produce,5,17,3.0,1
+2853,Clementines,produce,packaged produce,5,17,3.0,1
+2853,Organic Avocados 5 Count,produce,packaged produce,5,17,3.0,0
+2853,Original Hawaiian Sweet Rolls,bakery,buns rolls,5,17,3.0,1
+2869,Lightly Breaded Fishies,frozen,frozen appetizers sides,6,19,13.0,0
+2869,Organic Whole Wheat Elbows,dry goods pasta,dry pasta,6,19,13.0,0
+2869,Grated Pecorino Romano,dairy eggs,specialty cheeses,6,19,13.0,0
+2869,Organic Celery Hearts,produce,fresh vegetables,6,19,13.0,1
+2869,Low Sodium Beef Broth,canned goods,soup broth bouillon,6,19,13.0,0
+2869,Organic Sweet Onion,produce,fresh vegetables,6,19,13.0,0
+2869,Organic Peeled Whole Baby Carrots,produce,packaged vegetables fruits,6,19,13.0,0
+2869,Organic Baby Carrots,produce,packaged vegetables fruits,6,19,13.0,0
+2869,Organic Hass Avocado,produce,fresh fruits,6,19,13.0,0
+2869,Organic Banana,produce,fresh fruits,6,19,13.0,1
+2869,Organic Brussel Sprouts,produce,packaged vegetables fruits,6,19,13.0,0
+2869,Fresh Cauliflower,produce,fresh vegetables,6,19,13.0,0
+2888,Creamy Almond Butter,pantry,spreads,5,11,5.0,0
+2888,100% Pure Vegetable Oil,pantry,oils vinegars,5,11,5.0,0
+2888,Organic Grade A Large Brown Eggs,dairy eggs,eggs,5,11,5.0,1
+2888,Ground Cumin,pantry,spices seasonings,5,11,5.0,0
+2888,Organic Raspberries,produce,packaged vegetables fruits,5,11,5.0,1
+2888,Organic Strawberries,produce,fresh fruits,5,11,5.0,1
+2888,Organic Large Extra Fancy Fuji Apple,produce,fresh fruits,5,11,5.0,1
+2888,Greek Vanilla Yogurt,dairy eggs,yogurt,5,11,5.0,1
+2888,100% Whole Wheat Bread,bakery,bread,5,11,5.0,1
+2888,Grass Fed Angus Ground Beef 93/7,meat seafood,packaged meat,5,11,5.0,1
+2888,Shredded Sharp Cheddar Cheese,dairy eggs,packaged cheese,5,11,5.0,0
+2888,Boneless And Skinless Chicken Breast,meat seafood,poultry counter,5,11,5.0,1
+2888,Clover Honey,pantry,honeys syrups nectars,5,11,5.0,1
+2888,Sunflower Nuts Roasted/No Salt,snacks,nuts seeds dried fruit,5,11,5.0,0
+2888,Almonds Roasted No Salt,snacks,nuts seeds dried fruit,5,11,5.0,0
+2888,Pecan Chips,snacks,nuts seeds dried fruit,5,11,5.0,1
+2888,Organic Dried Sweetened Cranberries,snacks,nuts seeds dried fruit,5,11,5.0,0
+2888,Pizza Sauce,dry goods pasta,pasta sauce,5,11,5.0,1
+2888,Natural Finely Shredded Triple Cheddar Cheese,dairy eggs,packaged cheese,5,11,5.0,0
+2888,Pepperoni,deli,lunch meat,5,11,5.0,0
+2888,Pure & Natural Sour Cream,dairy eggs,other creams cheeses,5,11,5.0,1
+2888,Whipped Cream Cheese Spread,dairy eggs,other creams cheeses,5,11,5.0,1
+2888,Whole Kernel Corn Golden Sweet,canned goods,canned jarred vegetables,5,11,5.0,1
+2888,Hass Avocados,produce,packaged produce,5,11,5.0,1
+2888,Cinnamon Raisin Bagels,bakery,breakfast bakery,5,11,5.0,1
+2888,Organic Milk Whole,dairy eggs,milk,5,11,5.0,1
+2888,Cherubs Heavenly Salad Tomatoes,produce,fresh vegetables,5,11,5.0,1
+2888,Mandarins,produce,packaged vegetables fruits,5,11,5.0,0
+2888,Low Moisture Part Skim Mozzarella String Cheese,dairy eggs,packaged cheese,5,11,5.0,1
+2888,Super Soft Taco Flour Tortillas,bakery,tortillas flat bread,5,11,5.0,1
+2888,Extra Virgin Olive Oil,pantry,oils vinegars,5,11,5.0,0
+2888,50% Less Sodium Black Beans,canned goods,canned meals beans,5,11,5.0,1
+2888,Celery Hearts,produce,fresh vegetables,5,11,5.0,0
+2888,Whole Chicken,meat seafood,poultry counter,5,11,5.0,0
+2889,Organic Unsweetened Almond Milk,dairy eggs,soy lactosefree,1,15,8.0,0
+2889,100% Pure Pumpkin,pantry,baking ingredients,1,15,8.0,0
+2889,Organic Baby Arugula,produce,packaged vegetables fruits,1,15,8.0,1
+2889,Natural Fluoride-Free Toothpaste Fresh Mint,personal care,oral hygiene,1,15,8.0,0
+2889,Corn Tortillas,bakery,tortillas flat bread,1,15,8.0,0
+2889,Angel Hair Pasta,dry goods pasta,dry pasta,1,15,8.0,0
+2889,90% Lean Ground Beef,meat seafood,meat counter,1,15,8.0,0
+2889,Tomato Sauce,canned goods,canned jarred vegetables,1,15,8.0,0
+2889,Mild Diced Green Chiles,canned goods,canned jarred vegetables,1,15,8.0,0
+2889,Bunched Cilantro,produce,fresh herbs,1,15,8.0,0
+2889,Total 0% Nonfat Greek Yogurt,dairy eggs,yogurt,1,15,8.0,0
+2889,Organic No Salt Added Diced Tomatoes,canned goods,canned jarred vegetables,1,15,8.0,0
+2936,Red Peppers,produce,fresh vegetables,5,15,7.0,0
+2936,Organic Garlic,produce,fresh vegetables,5,15,7.0,1
+2936,Original Hummus,deli,fresh dips tapenades,5,15,7.0,1
+2937,Banana,produce,fresh fruits,1,9,16.0,1
+2937,Florida Orange Juice With Calcium & Vitamin D,beverages,refrigerated,1,9,16.0,1
+2937,Organic Sunny Days Apple Snack Bars,babies,baby food formula,1,9,16.0,1
+2937,Natural String Cheese,dairy eggs,packaged cheese,1,9,16.0,0
+2937,Banana Oat Bars,snacks,energy granola bars,1,9,16.0,0
+2937,Cranberry Orange Oat Bar,snacks,energy granola bars,1,9,16.0,0
+2937,All Natural Bar Peach,snacks,energy granola bars,1,9,16.0,0
+2937,Limes,produce,fresh fruits,1,9,16.0,0
+2937,Organic Cilantro,produce,fresh herbs,1,9,16.0,1
+2937,Organic Hass Avocado,produce,fresh fruits,1,9,16.0,1
+2937,Organic Red Onion,produce,fresh vegetables,1,9,16.0,0
+2937,Chopped Spinach,frozen,frozen produce,1,9,16.0,1
+2937,Ground Turkey Breast,meat seafood,poultry counter,1,9,16.0,1
+2937,Coconut Yoghurt,dairy eggs,yogurt,1,9,16.0,1
+2937,Shredded Parmesan,dairy eggs,packaged cheese,1,9,16.0,0
+2937,Feta Cheese Crumbles,dairy eggs,packaged cheese,1,9,16.0,1
+2948,100% Whole Wheat Bread,bakery,bread,5,10,16.0,1
+2948,Organic Mayonnaise,pantry,condiments,5,10,16.0,1
+2948,YoKids Squeeze! Organic Strawberry Flavor Yogurt,dairy eggs,yogurt,5,10,16.0,1
+2948,Large Lemon,produce,fresh fruits,5,10,16.0,0
+2985,Sauvignon Blanc,alcohol,white wines,0,10,30.0,1
+2985,English Seedless Cucumber,produce,fresh vegetables,0,10,30.0,1
+2985,Chicken Broth,canned goods,soup broth bouillon,0,10,30.0,1
+2985,Ground Cumin,pantry,spices seasonings,0,10,30.0,0
+2985,Limes,produce,fresh fruits,0,10,30.0,0
+2985,Organic Lemon,produce,fresh fruits,0,10,30.0,0
+2985,Cherubs Heavenly Salad Tomatoes,produce,fresh vegetables,0,10,30.0,1
+2985,Organic Roma Tomato,produce,fresh vegetables,0,10,30.0,0
+3010,Pure Coconut Water,beverages,juice nectars,1,16,7.0,1
+3010,Organic Hass Avocado,produce,fresh fruits,1,16,7.0,1
+3010,Bag of Organic Bananas,produce,fresh fruits,1,16,7.0,1
+3010,Organic Low Sodium Chicken Broth,canned goods,soup broth bouillon,1,16,7.0,1
+3010,Brown Eggs,dairy eggs,eggs,1,16,7.0,1
+3010,Organic Extra Virgin Olive Oil,pantry,oils vinegars,1,16,7.0,1
+3010,Organic Reduced Fat 2% Milk,dairy eggs,milk,1,16,7.0,1
+3010,Organic Mini Sandwich Crackers Cheddar Cheese,snacks,crackers,1,16,7.0,1
+3037,Fat Free Milk,dairy eggs,milk,5,11,3.0,1
+3037,Orange Calcium & Vitamin D Pulp Free,beverages,juice nectars,5,11,3.0,1
+3037,Extra Strong 30 Gallon Large Trash Bags,household,trash bags liners,5,11,3.0,0
+3056,GoGurt Yogurt Tubes Strawberry and Blue Raspberry,dairy eggs,yogurt,1,18,4.0,0
+3056,Strawberries,produce,fresh fruits,1,18,4.0,1
+3056,Applesauce On The Go Apple Mango Pouches,canned goods,canned fruit applesauce,1,18,4.0,1
+3056,Applesauce On The Go Apple Strawberry Pouches,canned goods,canned fruit applesauce,1,18,4.0,0
+3056,Applesauce On The Go Apple Peach Pouches,canned goods,canned fruit applesauce,1,18,4.0,1
+3056,Reduced-fat Soft Cream Cheese,dairy eggs,other creams cheeses,1,18,4.0,1
+3056,Hazelnut Ground Coffee,beverages,coffee,1,18,4.0,1
+3056,Deli Fresh Smoked Turkey Breast,deli,lunch meat,1,18,4.0,1
+3056,Banana,produce,fresh fruits,1,18,4.0,1
+3056,Pineapple Slices in 100% Pineapple Juice,canned goods,canned fruit applesauce,1,18,4.0,0
+3056,"Pita Chips, Simply Naked, Party Size",snacks,chips pretzels,1,18,4.0,0
+3056,Cherubs Heavenly Salad Tomatoes,produce,fresh vegetables,1,18,4.0,1
+3056,Sparkling Apple,missing,missing,1,18,4.0,0
+3056,Sparkling Clementine Beverage,beverages,soft drinks,1,18,4.0,0
+3056,Tortilla Strips Restaurant Style,snacks,chips pretzels,1,18,4.0,0
+3056,GoGurt Strawberry and Blueberry Tubes,dairy eggs,yogurt,1,18,4.0,0
+3056,Kellogg's Nutri-Grain Apple Cinnamon Cereal,breakfast,breakfast bars pastries,1,18,4.0,1
+3056,Nutri-Grain Soft Baked Strawberry Cereal Breakfast Bars,breakfast,breakfast bars pastries,1,18,4.0,0
+3056,Seedless Red Grapes,produce,packaged vegetables fruits,1,18,4.0,0
+3056,Goldfish Cheddar Baked Snack Crackers,snacks,crackers,1,18,4.0,1
+3056,Firecracker  Ice Pops,frozen,ice cream ice,1,18,4.0,0
+3068,Sparkling Water,beverages,water seltzer sparkling water,3,14,7.0,1
+3068,Strawberries,produce,fresh fruits,3,14,7.0,1
+3091,Lemon Ginger Tea Bags,beverages,tea,5,9,2.0,1
+3091,Organic Mango Slices,snacks,nuts seeds dried fruit,5,9,2.0,1
+3091,Pure Green Tea,beverages,tea,5,9,2.0,1
+3091,Morning Rounds Muesli Fruit & Grain Buns,bakery,breakfast bakery,5,9,2.0,1
+3091,"Herbal Tea, Organic, Turmeric Ginger, Caffeine-Free, Bags",beverages,tea,5,9,2.0,1
+3091,Amber Sun Turmeric Tea,beverages,tea,5,9,2.0,1
+3091,Bag of Organic Bananas,produce,fresh fruits,5,9,2.0,1
+3091,Organic Lemon,produce,fresh fruits,5,9,2.0,1
+3103,Fresh Mozzarella All-Natural Sliced Cheese,dairy eggs,packaged cheese,0,15,30.0,1
+3103,Sinfully Sweet Campari Tomatoes,produce,fresh vegetables,0,15,30.0,0
+3103,Shredded Parmigiano Reggiano,dairy eggs,packaged cheese,0,15,30.0,0
+3103,Pure Irish Butter,dairy eggs,butter,0,15,30.0,0
+3142,Cold-Pressed Organic Grapefruit,beverages,juice nectars,4,13,13.0,0
+3142,Olive Bread,bakery,bread,4,13,13.0,1
+3142,Organic Lemonade Fruit Juice Drink,beverages,juice nectars,4,13,13.0,0
+3142,Organic Strawberry Lemonade Fruit Juice Drink,beverages,refrigerated,4,13,13.0,0
+3142,Cold Pressed Watermelon & Lemon Juice Blend,missing,missing,4,13,13.0,0
+3142,Cold-Pressed Organic Orange,beverages,refrigerated,4,13,13.0,0
+3160,Soda,beverages,soft drinks,4,15,5.0,1
+3160,Diet Dr.Pepper Soda Pack,beverages,soft drinks,4,15,5.0,1
+3160,Coke Classic,beverages,soft drinks,4,15,5.0,0
+3160,Original Flavor Crispy Corn Snacks,snacks,chips pretzels,4,15,5.0,1
+3160,Tomato Sauce,canned goods,canned jarred vegetables,4,15,5.0,0
+3160,Roaster/Baker Pans & Lids,household,kitchen supplies,4,15,5.0,0
+3176,Zero Calorie Cola,beverages,soft drinks,5,8,17.0,1
+3179,Lime Sparkling Water,beverages,water seltzer sparkling water,6,17,30.0,1
+3179,Caramel Almond and Sea Salt Nut Bar,snacks,energy granola bars,6,17,30.0,1
+3179,Krinkle Cut Classic Barbecue Potato Chips,snacks,chips pretzels,6,17,30.0,1
+3179,Sparkling Water Grapefruit,beverages,water seltzer sparkling water,6,17,30.0,1
+3179,Honey Bunny Grahams,snacks,cookies cakes,6,17,30.0,1
+3179,White Chocolate Macadamia Nut Energy Bar,snacks,energy granola bars,6,17,30.0,0
+3179,"Nuts & Spices, Dark Chocolate Mocha Almond",snacks,energy granola bars,6,17,30.0,0
+3179,Tea Tree Scalp Treatment Shampoo,personal care,hair care,6,17,30.0,0
+3200,Baby Cucumbers,produce,packaged produce,5,17,30.0,1
+3200,Chocolate Chip Cookies,snacks,cookies cakes,5,17,30.0,1
+3200,Strawberries,produce,fresh fruits,5,17,30.0,1
+3200,Tall Kitchen Bag With Febreze Odor Shield,household,trash bags liners,5,17,30.0,1
+3200,Organic Tortilla Chips,snacks,chips pretzels,5,17,30.0,1
+3200,Granny Smith Apples,produce,fresh fruits,5,17,30.0,1
+3200,Pineapple Spears,produce,packaged produce,5,17,30.0,1
+3200,Table Water Crackers,snacks,crackers,5,17,30.0,1
+3200,Clementines,produce,packaged produce,5,17,30.0,0
+3209,Family Pack Beef & Bean Chimichangas,frozen,frozen meals,0,13,27.0,1
